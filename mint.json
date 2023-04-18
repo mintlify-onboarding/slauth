@@ -31,11 +31,6 @@
       "name": "Changelog",
       "icon": "list",
       "url": "https://mintlify.com"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
     }
   ],
   "navigation": [
@@ -58,8 +53,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/slauth-io/?originalSubdomain=il"
   }
 }
